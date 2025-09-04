@@ -27,7 +27,7 @@ Implementación completa del clásico juego....
 ##  Estructura del Proyecto
 
 ```
-BarcosssMVC/
+(BarcosssMVC).../
 ├── Codigo/
 │   ├── modelo/                    #  CAPA MODELO
 │   │   ├── Juego.java            # Lógica principal del juego
